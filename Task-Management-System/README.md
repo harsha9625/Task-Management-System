@@ -183,6 +183,6 @@ npm install crypto nodemailer
 - 🚨 Real-time updates on task status  
 - 📬 Email notifications for important events  
 
----
+
 
 **🚀 TaskFlow - Your Productivity, Simplified!** 💡✨  
